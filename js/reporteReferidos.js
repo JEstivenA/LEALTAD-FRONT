@@ -1,7 +1,7 @@
 const url = " https://a587-190-104-124-158.ngrok-free.app";
 //https://a587-190-104-124-158.ngrok-free.app
 // https://d95c3acc4466b982033dac9fbadb6295.serveo.net
-//prueba
+
 let token = localStorage.getItem("token");
 let datosObtenidos = null; // Variable global para almacenar los datos obtenidos
 
