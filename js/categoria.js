@@ -1,5 +1,5 @@
 let token = localStorage.getItem("token");
-const url = "  https://d4dc-181-209-150-206.ngrok-free.app ";
+const url = " https://a587-190-104-124-158.ngrok-free.app";
 
 $(function () {
   let tabla = getCategorias();
